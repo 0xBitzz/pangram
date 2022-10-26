@@ -1,0 +1,1 @@
+A simple program that checks if a sentence is a Pangram
